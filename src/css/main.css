@@ -867,7 +867,7 @@ footer .footer_menu a:hover {
     right: -30px;
 }
 
-.white_block_url_popup.active:after {
+.white_block_url_popup:after {
     background-color: #404040;
     background-size: 100%;
     bottom: -5px;
