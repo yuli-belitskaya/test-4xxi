@@ -1,0 +1,31 @@
+{
+  "name": "test-4xxi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuli-belitskaya/test-4xxi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuli-belitskaya/test-4xxi/issues"
+  },
+  "homepage": "https://github.com/yuli-belitskaya/test-4xxi#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "cssnano": "^3.10.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csslint": "^1.0.0",
+    "gulp-jslint": "^1.0.10",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
